@@ -1,0 +1,40 @@
+{
+  "host":"http://deploy.winside.cn:9999",
+  "包月大厅" : {
+    "产品（包月）":"/api/client/iptv_month_hd/Product/query/?ep=T&c_key__endswith=month&c_key__endswith=_mh&c_key__endswith=_tj&c_key__endswith=_zs&c_key__endswith=_bk&c_key__endswith=phone&or=c_key__endswith,c_key__endswith",
+    "产品分类（包月）":"/api/client/iptv_month_hd/ProductMap/query/?ep=T&c_product__enable__exact=T&c_kind__c_key__startswith=month",
+    "订购配置":"/api/client/iptv_month_hd/OrderConf/query/?ep=T&using_db=90021",
+    "黑白名单": "/api/client/iptv_month_hd/Userconf/query/?ep=T&using_db=90021"
+  },
+  "报表与统计查询": {
+    "用户信息": "/reports/user_index",
+    "每日PPV游戏综合统计":"/remote/ReportsRemote/daily_reports/",
+    "每日综合统计（包月）":"/remote/ReportsRemote/month_reports/", // ok
+    "PPV大厅游戏统计":"/remote/ReportsRemote/game_reports/", 
+    "包月大厅游戏统计":"/remote/ReportsRemote/monthgame_reports/", // ok
+    "充值失败异常分析":"/remote/ReportsRemote/iptv_pay_errorcode_reports/", // ok
+    "道具统计":"/remote/ReportsRemote/prop_reports/",
+    "大厅留存率查询":"/remote/ReportsRemote/leftrate_search/", //ok
+    "活动流量统计":"/remote/ReportsRemote/actpv_reports/",
+    "来源PV统计报表":"/remote/ReportsRemote/app_pv_reports/", // error
+    "充值区间查询":"/remote/ReportsRemote/pay_orders_search/",
+    "游戏存档数据导出":"/remote/ReportsRemote/game_record_export/",
+    "沉默用户统计报表":"/remote/ReportsRemote/silence_user_export/",
+    "流量明细":"/remote/PvRemote/get_pv_detail/", // error
+    "充值明细":"/api/client/services/PayOrder/query/?ep=T", // ok
+    "消费明细":"/api/client/services/ConsumeLog/query/?ep=T", // ok
+    "订购明细":"/api/client/services/MonthPayOrder/query/?ep=T", // ok
+    "活动奖品":"/api/client/pv/ActivityAward/query/?ep=T&using_db=90021_itvsrv_activity",
+    "赠送元宝消费记录":"/api/client/pv/ActivityConsumeLog/query/?ep=T&using_db=90021_itvsrv_activity",
+    "赠送用户元宝余额记录":"/api/client/pv/UserActivityCoins/query/?ep=T&using_db=90021_itvsrv_activity",
+    "赠送元宝记录":"/api/client/pv/UserActivityCoinsKinds/query/?ep=T&using_db=90021_itvsrv_activity",
+    "测试账号":"/api/client/system/TestUser/query/?using_db=default&ep=T",
+    "区域-产品管理":"/api/client/system/Product/query/?using_db=default&ep=T",
+    "PPV产品每月指标管理":"/api/client/system/ppvproductparams/query/?using_db=default&ep=T",
+    "包月产品每月指标管理":"/api/client/system/MonthProductParams/query/?using_db=default&ep=T",
+    "PPV产品数据分析报表":"/api/client/system/PpvDayTotalReport/query/?using_db=default&ep=T",
+    "包月产品数据分析报表":"/api/client/system/MonthDayTotalReport/query/?using_db=default&ep=T",
+    "产品收入完成度报表":"/api/client/system/IncomeTotalReport/query/?using_db=default&ep=T",
+    "业务产品收入完成度报表":"/api/client/system/BsIncomeTotalReport/query/?using_db=default&ep=T"
+  }
+}

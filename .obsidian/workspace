@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "079f6fa898cfc9fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1f4f3519aeba115",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0索引.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7d79e0953471ae1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6b637150b1fefcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "256f771f4732bf15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a11e132b02e205d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "he.jianbo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294
+  },
+  "right": {
+    "id": "47501273a42e33a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c66e7601b1675990",
+        "type": "tabs",
+        "dimension": 79.91967871485943,
+        "children": [
+          {
+            "id": "f5c9cd6e242c18d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0索引.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09fb72a14a924a9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0索引.md"
+              }
+            }
+          },
+          {
+            "id": "529716fce1d30ce3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "89298fe1b831317a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0索引.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "08ea498e088c77e7",
+        "type": "tabs",
+        "dimension": 20.080321285140563,
+        "children": [
+          {
+            "id": "3a5e92bc500be6aa",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "0索引.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.0078125,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "e1f4f3519aeba115",
+  "lastOpenFiles": [
+    "0索引.md",
+    "输出/技术/iptables 再结尾插入有效白名单.md",
+    "输出/技术/在HTML中打出人民币符号和对勾符号.md",
+    "整理中/工作文档/采编编辑器二次开发功能点整理.md",
+    "输出/技术/富文本编辑器开发系列11——ueditor工具套件.md",
+    "整理中/技术/位运算基础知识全面总结.md",
+    "整理中/技术/devOps要点.md",
+    "整理中/技术/二进制数据表示和计算.md",
+    "整理中/技术/js异或运算符^小技巧_哒哒哒-CSDN博客_js 异或.md",
+    "整理中/技术/富文本编辑器开发系列13——ueditor对原生selection操作的封装.md"
+  ]
+}

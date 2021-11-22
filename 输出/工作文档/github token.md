@@ -1,0 +1,11 @@
+github token
+
+617c392be9633ec9e4c9474b7e6626597e8d1300
+
+for picGO
+
+e1dd236bf1d120183f1e8af249287e564f5e606d
+
+gitee图床令牌
+
+ff9a0a4de3e6297a9583f8c21833fb17

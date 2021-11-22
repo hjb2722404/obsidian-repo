@@ -1,0 +1,22 @@
+包月大厅
+
+1.产品（包月）
+
+http://deploy.winside.cn:9999/api/base/iptv_month_hd/Product/query/?ep=T&c_key__endswith=month&c_key__endswith=_mh&c_key__endswith=_tj&c_key__endswith=_zs&c_key__endswith=_bk&c_key__endswith=phone&or=c_key__endswith,c_key__endswith
+
+1.1 产品（包月）无效
+
+http://deploy.winside.cn:9999/api/base/iptv_month_hd/Product/query/?ep=T&c_key__endswith=month&c_key__endswith=_mh&c_key__endswith=_tj&c_key__endswith=_zs&c_key__endswith=_bk&c_key__endswith=phone&or=c_key__endswith,c_key__endswith
+
+2.给游戏分类
+
+http://deploy.winside.cn:9999/api/base/iptv_month_hd/ProductMap/query/?ep=T&c_product__enable__exact=T&c_kind__c_key__startswith=month
+
+3.订购配置
+
+
+http://deploy.winside.cn:9999/api/base/iptv_month_hd/OrderConf/query/?ep=T&using_db=90021
+
+4.黑白名单
+
+http://deploy.winside.cn:9999/api/base/iptv_month_hd/Userconf/query/?ep=T&using_db=90021

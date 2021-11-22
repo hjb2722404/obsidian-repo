@@ -1,0 +1,9 @@
+{
+    "id": "md_inner_merge",
+    "name": "内链合并插件",
+    "version": "0.0.1",
+    "description": "用于将OB内部块连接和双向链接转换为正常的markdown内容",
+    "author": "作者",
+    "authorUrl": "",
+    "isDesktopOnly": false
+}

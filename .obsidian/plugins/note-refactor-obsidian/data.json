@@ -1,0 +1,11 @@
+{
+  "includeFirstLineAsNoteHeading": false,
+  "excludeFirstLineInNote": false,
+  "headingFormat": "#",
+  "newFileLocation": 1,
+  "customFolder": "",
+  "fileNamePrefix": "",
+  "transcludeByDefault": true,
+  "noteLinkTemplate": "点击查看详情  ->{{new_note_link}}",
+  "refactoredNoteTemplate": ""
+}

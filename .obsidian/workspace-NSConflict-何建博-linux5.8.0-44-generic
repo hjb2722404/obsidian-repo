@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "079f6fa898cfc9fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b873a16e327a3fd7",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7d79e0953471ae1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6b637150b1fefcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "256f771f4732bf15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a11e132b02e205d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383
+  },
+  "right": {
+    "id": "47501273a42e33a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c66e7601b1675990",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5c9cd6e242c18d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09fb72a14a924a9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "529716fce1d30ce3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "89298fe1b831317a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b873a16e327a3fd7",
+  "lastOpenFiles": [
+    "输出/技术/重新认识Git.md",
+    "输入/看完这篇文章才对GIT有了大彻大悟的认识_Web全栈笔记-CSDN博客_git kuaizhao.md",
+    "输入/调用栈 - 术语表 _ MDNGithubTwitterGitHubTwitterFacebookI.md",
+    "输出/技术/未命名.md",
+    "输出/技术/Web安全详解.md",
+    "输出/技术/X-UA-Compatible 是什么（详解）.md",
+    "输入/X-UA-Compatible属性的解释 - 陈斌彬的技术博客.md",
+    "输出/技术/HTML的meta标签详解.md",
+    "输入/HTML5系列之meta - SegmentFault 思否.md",
+    "输入/移动前端头部标签(HTML5 head meta)-前端开发博客.md"
+  ]
+}
